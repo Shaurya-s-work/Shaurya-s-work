@@ -38,11 +38,6 @@
 * **Stack:** Python, TensorFlow/Keras, MobileNetV2, NumPy, Matplotlib
 * **Key Achievement:** Built an end-to-end image classification pipeline utilizing MobileNetV2 architecture for dynamic pearl millet (*bajra*) grain sorting and automated quality evaluation.
 
-#### ⚙️ 2. Bioprocess Kinetic Modeling & Fermentation Optimization
-* **Domain:** Chemical Engineering, Enzymology
-* **Stack:** MATLAB, Data Modeling, Excel
-* **Key Achievement:** Modeled Monod kinetics to optimize substrate utilization in bioreactor batch cultures, improving target biomass yields by 18%.
-
 ---
 
 ### 📊 GitHub Stats
