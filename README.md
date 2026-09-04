@@ -51,7 +51,6 @@
 </p>
 ### 📌 Featured & Recent Projects
 
-> *Tip: As you push new repos (like your wine case study), just drop a new row into this table so it updates instantly!*
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
