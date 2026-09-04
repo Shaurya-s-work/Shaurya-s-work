@@ -40,16 +40,27 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaurya-s-work&show_icons=true&theme=radial" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaurya-s-work&layout=compact&theme=radial" width="48%" />
-</p>
+<div align="center">
+  <a href="https://github.com/Shaurya-s-work">
+    <img src="https://github-readme-stats.vercel.app/api?username=Shaurya-s-work&show_icons=true&theme=radial&hide_border=true&count_private=true" alt="Shaurya's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Shaurya-s-work">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaurya-s-work&layout=compact&theme=radial&hide_border=true" alt="Top Languages" />
+  </a>
+</div>
 
-### 📈 Recent Activity
-<!-- Automatically tracks your latest GitHub activity -->
-[![Recent Activity](https://github-readme-activity-feed.vercel.app/badge?user=Shaurya-s-work&theme=radial&max_items=5)](https://github.com/Shaurya-s-work)
+---
+
+### 📌 Featured & Recent Projects
+
+> *Tip: As you push new repos (like your wine case study), just drop a new row into this table so it updates instantly!*
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[millets-quality-classification](https://github.com/Shaurya-s-work/millets-quality-classification)** | End-to-end image classification pipeline for pearl millet grain sorting. | Python, TensorFlow, MobileNetV2 |
+| **[Casestudy-wine-in-India](https://github.com/Shaurya-s-work/Casestudy-wine-in-India)** | Analytical business and market case study on the wine industry in India. | Data Analysis, Python |
 
 ---
 <p align="center"><i>⚡ "Engineering scalable biological and computational solutions."</i></p>
