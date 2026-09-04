@@ -41,17 +41,14 @@
 ---
 
 ### 📊 GitHub Stats & Languages
-
-<div align="center">
+<p align="center">
   <a href="https://github.com/Shaurya-s-work">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shaurya-s-work&show_icons=true&theme=radial&hide_border=true&count_private=true" alt="Shaurya's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Shaurya-s-work&show_icons=true&theme=radial&hide_border=true&include_all_commits=true" alt="Shaurya's GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/Shaurya-s-work">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaurya-s-work&layout=compact&theme=radial&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaurya-s-work&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
   </a>
-</div>
-
----
+</p>
 
 ### 📌 Featured & Recent Projects
 
@@ -60,7 +57,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[millets-quality-classification](https://github.com/Shaurya-s-work/millets-quality-classification)** | End-to-end image classification pipeline for pearl millet grain sorting. | Python, TensorFlow, MobileNetV2 |
-| **[Casestudy-wine-in-India](https://github.com/Shaurya-s-work/Casestudy-wine-in-India)** | Analytical business and market case study on the wine industry in India. | Data Analysis, Python |
+| **[Casestudy-wine-in-India](https://github.com/Shaurya-s-work/Casestudy-wine-in-India)** | Analytical business and market case study on the wine industry in India. | Data Analysis, MS Excel |
 
 ---
 <p align="center"><i>⚡ "Engineering scalable biological and computational solutions."</i></p>
