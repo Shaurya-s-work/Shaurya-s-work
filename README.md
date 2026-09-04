@@ -47,5 +47,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaurya-s-work&layout=compact&theme=radial" width="48%" />
 </p>
 
+### 📈 Recent Activity
+<!-- Automatically tracks your latest GitHub activity -->
+[![Recent Activity](https://github-readme-activity-feed.vercel.app/badge?user=Shaurya-s-work&theme=radial&max_items=5)](https://github.com/Shaurya-s-work)
+
 ---
 <p align="center"><i>⚡ "Engineering scalable biological and computational solutions."</i></p>
