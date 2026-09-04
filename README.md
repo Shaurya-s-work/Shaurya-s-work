@@ -43,13 +43,12 @@
 ### 📊 GitHub Stats & Languages
 <p align="center">
   <a href="https://github.com/Shaurya-s-work">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shaurya-s-work&show_icons=true&theme=radial&hide_border=true&include_all_commits=true" alt="Shaurya's GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Shaurya-s-work&show_icons=true&theme=radial&hide_border=true&include_all_commits=true" alt="Shaurya's GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/Shaurya-s-work">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaurya-s-work&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shaurya-s-work&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
   </a>
 </p>
-
 ### 📌 Featured & Recent Projects
 
 > *Tip: As you push new repos (like your wine case study), just drop a new row into this table so it updates instantly!*
